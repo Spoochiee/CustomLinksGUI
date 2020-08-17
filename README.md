@@ -1,2 +1,3 @@
 # Minecraft-Plugins
-The source code to all my plugins
+This repository contains all the source code to my 
+publicaly released Plugins.
