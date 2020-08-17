@@ -1,0 +1,69 @@
+####################################################
+################# CUSTOM LINKS GUI #################
+####################################################
+#################### VERSION:1.1.2 #################
+####################################################
+
+
+####################################################
+########### All Messages Accept Bukkit #############
+################## Color Codes #####################
+####################################################
+
+
+
+#reload message
+reload:
+  message: "&bReloaded Config!"
+
+
+#Name of GUI
+GUI:
+  name: "&6Custom Link GUI"
+
+
+#name of links
+name:
+  link1: "&9Link1"
+  link2: "&9Link2"
+  link3: "&9Link3"
+  link4: "&9Link4"
+  link5: "&9Link5"
+  link6: "&9Link6"
+  link7: "&9Link7"
+  
+    
+#description of link, this will appear as block lore
+description:
+  link1: "&7Click here to see link!"
+  link2: "&7Click here to see link!"
+  link3: "&7Click here to see link!"
+  link4: "&7Click here to see link!"
+  link5: "&7Click here to see link!"
+  link6: "&7Click here to see link!"
+  link7: "&7Click here to see link!"
+        
+        
+    
+#link to be displayed in chat when the block is clicked
+links:
+  link1: "&fwww.link1.com"
+  link2: "&fwww.link2.com"
+  link3: "&fwww.link3.com"
+  link4: "&fwww.link4.com"
+  link5: "&fwww.link5.com"
+  link6: "&fwww.link6.com"
+  link7: "&fwww.link7.com"
+    
+    
+#Choose how many links to display
+#Set the number of links that you want to display to true
+#set the rest to false
+number:
+  1: false
+  2: false
+  3: false
+  4: false
+  5: false
+  6: false
+  7: true
