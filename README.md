@@ -1,3 +1,2 @@
-# Minecraft-Plugins
-This repository contains all the source code to my 
-publicaly released Plugins.
+# CustomLinksGUI
+This repository contains all the code the publically released versions of CustomLinksGUI.
